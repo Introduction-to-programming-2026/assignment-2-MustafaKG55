@@ -14,7 +14,7 @@ int main(void)
     // Ask user for N scores
     for (int i = 0; i < N; i++)
     {
-        scores[i] = get_int("Score: ");
+        scores[i] = get_int( "Score: ");
     }
 
     // Print average
