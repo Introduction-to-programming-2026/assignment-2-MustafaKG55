@@ -1,4 +1,4 @@
-// Misspelled stdio.h
+  // Misspelled stdio.h
 #include <stdio.h>
 
 int main(void)

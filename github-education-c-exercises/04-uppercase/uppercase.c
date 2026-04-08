@@ -5,7 +5,7 @@
 
 int main(void)
 {
-    string s = get_string("Before: ");
+    string  s = get_string("Before: ");
     printf("After: ");
 
     for (int i = 0; i < strlen(s); i++)

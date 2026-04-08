@@ -7,7 +7,7 @@ const int N = 3;
 // Function prototype
 float average(int length, int array[]);
 
-int main(void)
+int  main(void)
 {
     int scores[N];
 
